@@ -1,0 +1,10 @@
+# https://github.com/srinivasskc/Python-Learning-2020.git
+
+*.log
+*.html
+*.xml
+*.idea
+
+# Ignore IDE specific files
+.idea
+
